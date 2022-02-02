@@ -1,7 +1,6 @@
 ## 深耕社区
 
 ## 资料
-<<<<<<< HEAD
 https://spring.io/guides  
 https://spring.io/guides/gs/serving-web-content/   
 https://elasticsearch.cn/explore  
